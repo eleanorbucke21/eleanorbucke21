@@ -77,7 +77,7 @@
  
 ---
 ## MILESTONE PROJECTS - Diploma in Web Application Development, Code Institute
-**Level 5 Diploma in Web Application Development - Code Institute
+**Level 5 Diploma in Web Application Development - Code Institute**
 | Description | Languages & Technologies Used | Project Grade |
 | :--- | :---: | :--- | 
 | <u>Portfolio Project 1:</u> [Snappy Barber](https://github.com/eleanorbucke21/Snappy-Barber) <br><br> <img width="250" alt="Am i responsive" src="https://github.com/eleanorbucke21/rubybm21/assets/107644138/25f7c0a3-098e-4f47-8a52-d9a86fc3fb8d"> <br> <br> The fictional barber website. It is a page designed to showcase the barbers work and services. It is aimed at men who want a haircut or beard attended to. Users of the website will be able to find all the information they need to know about the barber. <br> <br> **Features:**<br> 1. CSS Flexbox and Grid <br> <br>  | HTML5, CSS | Pass  |

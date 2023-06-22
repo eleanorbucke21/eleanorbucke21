@@ -1,5 +1,5 @@
 # ELEANOR BUCKE
-## Full Stack Software with E-Commerce Applications
+## Full Stack Software with E-Commerce Applications and Code Institute Alumna
 ### About me 👋
 
 ## CONTACT ME

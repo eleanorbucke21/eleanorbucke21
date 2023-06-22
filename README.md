@@ -1,5 +1,5 @@
 # ELEANOR BUCKE
-## Full Stack Software Student with Code Institute
+## Full Stack Software with E-Commerce Applications
 ### About me 👋
 
 ## CONTACT ME

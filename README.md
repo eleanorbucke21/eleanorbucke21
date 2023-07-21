@@ -17,8 +17,8 @@
 
 ## MY TECH STACK
 
-| MY TECH STACK  |  |  
-| :--- | :---: | 
+MY TECH STACK 💻 : 
+
 
 **<>** **Programming Languages**
 <p dir="auto">

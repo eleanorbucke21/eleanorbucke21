@@ -95,7 +95,7 @@ MY TECH STACK 💻 :
 ---
 
 ## MILESTONE PROJECTS - Diploma in Web Application Development, Code Institute
-*Level 5 Diploma in Web Application Development - Code Institute**
+*Level 6 Diploma in Web Application Development - Code Institute**
 ---
 
 | Description | Languages & Technologies Used | Project Grade |

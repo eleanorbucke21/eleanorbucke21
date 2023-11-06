@@ -1,9 +1,4 @@
-<div id="header">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ3M3B3ZDc5d2F6Y2Z4M2x1aTdveHltYzZzc3J1aXo3ZzB0dWFwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vLlpbDafjgHystuJ0a/giphy.gif">
-</div>
-
-
-# ELEANOR BUCKE
+# ELEANOR BUCKE MEHMOOD
 ## Full Stack Software with E-Commerce Applications and Code Institute Alumna
 ### About me 👋
 

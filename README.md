@@ -2,6 +2,16 @@
 ## Full Stack Software with E-Commerce Applications and Code Institute Alumna
 ### About me 👋
 
+## Table of Contents
+- [Contact Me](#contact-me)
+- [My Tech Stack](#my-tech-stack)
+- [My Stats](#my-stats)
+- [CCT Dublin]
+- [Milestone Projects](#milestone-projects)
+- [Hackathons with Code Institute](#hackathons-with-code-institute)
+
+---
+
 ## CONTACT ME
 <a href="https://www.linkedin.com/in/eleanor-bucke-mehmood-38a5b6222/">
   <img
@@ -19,6 +29,7 @@ MY TECH STACK 💻 :
 <p dir="auto">
   <img alt="HTML" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/css%203-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -47,7 +58,7 @@ MY TECH STACK 💻 :
     <img alt="GitPod" src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white" /> 
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /> 
     <img alt"Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-   
+   <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
  </p> 
 
 🏦 **Hosting**
@@ -89,9 +100,21 @@ MY TECH STACK 💻 :
 
 ---
 
-## MILESTONE PROJECTS - Diploma in Web Application Development, Code Institute
-*Level 6 Diploma in Web Application Development - Code Institute**
----
+## CCT Dublin
+### NFQ Level 7 - Diploma in Applied Software Development
+
+| Description | Languages & Technologies Used | Project Grade |
+| :--- | :---: | :--- |
+| **CCT Rental Part 2:** <br><br> [CCT Rental part 2](https://github.com/eleanorbucke21/CA2) <br> <br> CCT Rental Part 2 is a project focusing on creating websites, applications, and CRM systems using HTML, CSS, JavaScript, PHP, Bootstrap 4, and MySQL. It was locally tested using XAMPP. | HTML, CSS, JavaScript, PHP, Bootstrap 4, XAMPP, MySQL | Pass |
+
+| Description | Languages & Technologies Used | Project Grade |
+| :--- | :---: | :--- |
+| **CCT Rental Part 1:** <br><br> [CCT RENTAL part 1](https://github.com/eleanorbucke21/webdevCA) <br> <br> CCT Rental Part 1 involves using JavaScript, HTML, and CSS to create web pages with added styling and interactive features. | JavaScript, HTML, CSS | Pass |
+
+
+
+## Code Institute
+### SFQ Level 8 - Diploma in Web Application Development
 
 | Description | Languages & Technologies Used | Project Grade |
 | :--- | :---: | :--- | 
@@ -101,9 +124,9 @@ MY TECH STACK 💻 :
 | <u>Portfolio Project 4:</u> <br><br>[Bawarchi Khana](https://github.com/eleanorbucke21/PP4)   <br> <img width="250" alt="amiresponsive (1)" src="https://github.com/eleanorbucke21/rubybm21/assets/107644138/7573efdc-41f9-444c-b14d-27a737c2d419"> <br><br> Bawarchi Khana is a Pakistani recipe blog. Bawarchi khana means kitchen in Urdu. This website is deigned to showcase pakistani recipes that can be added by either admin or by a user who has registered to the website. Each user has the ability to like and dislike a recipe post. If the user is also the author of the recipe post they have the option to delete or edit the post. As admin for this blog, they have the option to approve or deny all posts and comments to be published on the website.<br><br> **Features:**<br> 1. User Authentication<br> 2. CRUD operations for standard users and admin. <br> 3. Admin approval <br> 4. Clopudinary API for storing and sharing images. <br> 5. Fully Responsive. <br><br>  | HTML, JavaScript, Django, CSS | Pass | 
 | <u>Portfolio Project 5:</u> <br><br>[Days Coming](https://github.com/eleanorbucke21/pp5) <br> <img width="250" alt="amiresponsivepp5" src="https://github.com/eleanorbucke21/eleanorbucke21/assets/107644138/b1b1d548-fdc3-44e6-b15c-64037b768c3b"> <br><br> Days coming is a fictitious ecommerce full stack project built using Django, Python, JavaScript and Bootstrap 4. The site is deployed to Heroku, uses Amazon S3 for cloud storage and Stripe for payment processing. Days Coming is a business to consumer online retailer for apocalyptic preperation also known as [survivalism](https://en.wikipedia.org/wiki/Survivalism). The products on the site reflect the theme of survivalism such as [MRE'S](https://en.wikipedia.org/wiki/Meal,_Ready-to-Eat), and [living off the grid](https://en.wikipedia.org/wiki/Off-the-grid). <br><br> **Features:**<br> 1. User Authentication <br> 2. CRUD operations for admin. <br> 3. Admin approval for polls <br> 4. Accurate product categorization <br> 5. Extra meta tags on specific pages enable the posting of dynamically changing images and content on social media <br> 6. Fully Responsive. <br><br> | Python, Django, HTML5, CSS, JavaScript, Bootstrap 4, GitHub Projects, Amazon S3, PostgreSQL, Search Engine Optimization (SEO) and Heroku | Pass | 
 
-
 ---
-## HACKATHONS 
+
+## HACKATHONS with Code Institute
 | Description | Languages & Technologies Used | Result |
 | :--- | :---: | :--- | 
 | July 2022 Hackathon: Emojis <br> <br> ![emoji](https://github.com/eleanorbucke21/eleanorbucke21/assets/107644138/a5964107-6f24-412b-9266-85537d809f03) <br> <br> [Enemoji](https://github.com/datonex/emoji-hackathon) is an interactive site to learn more about the emojis and their history. Did you for instance know that each festive day have a dedicated emoji? Play our checkbox game to find out more. Are we sometimes misunderstanding the Emojis meaning? Head over to our memory game to test your emoji memory and learn about how each emoji is described and their meaning. This site is interactive and fun and you'll leave knowing more about Emojis than you did before! <br> Memory game: The aim of the game is to select a card and attempt to find it's matching pair. Guess the event quiz: The user has to guess what the name of the event is using the emoji. | CSS, HTML, JavaScript| ![assertion-tc-TFkuRTOixOh5HqJ1TXw](https://github.com/eleanorbucke21/rubybm21/assets/107644138/9f5078e3-fc41-4614-a5cb-86fffb328c29) | 

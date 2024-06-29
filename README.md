@@ -6,7 +6,7 @@
 - [Contact Me](#contact-me)
 - [My Tech Stack](#my-tech-stack)
 - [My Stats](#my-stats)
-- [CCT Dublin]
+- [CCT Dublin](#cct-dublin)
 - [Milestone Projects](#milestone-projects)
 - [Hackathons with Code Institute](#hackathons-with-code-institute)
 

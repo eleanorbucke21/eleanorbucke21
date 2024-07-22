@@ -1,4 +1,4 @@
-# ELEANOR BUCKE MEHMOOD
+# ELEANOR BUCKE
 ## Full Stack Software with E-Commerce Applications and Code Institute Alumna
 ### About me 👋
 
@@ -105,11 +105,11 @@ MY TECH STACK 💻 :
 
 | Description | Languages & Technologies Used | Project Grade |
 | :--- | :---: | :--- |
+| **Days Coming App:** <br><br> Days Coming is a fictitious e-commerce Android application focusing on survivalism. This business-to-consumer online retailer offers products such as MRE's and gear for living off the grid. The project emphasizes user experience with detailed user stories and a robust feature list including authentication, product management, and a shopping cart. Technologies used include Kotlin, Java, Android SDK, and SQLite for local data management. | Kotlin, Java, Android SDK, SQLite | Pass] |
+| **CCT Rental Part 1:** <br><br> [CCT RENTAL part 1](https://github.com/eleanorbucke21/webdevCA) <br> <br> CCT Rental Part 1 involves using JavaScript, HTML, and CSS to create web pages with added styling and interactive features. | JavaScript, HTML, CSS | Pass |
 | **CCT Rental Part 2:** <br><br> [CCT Rental part 2](https://github.com/eleanorbucke21/CA2) <br> <br> CCT Rental Part 2 is a project focusing on creating websites, applications, and CRM systems using HTML, CSS, JavaScript, PHP, Bootstrap 4, and MySQL. It was locally tested using XAMPP. | HTML, CSS, JavaScript, PHP, Bootstrap 4, XAMPP, MySQL | Pass |
 
-| Description | Languages & Technologies Used | Project Grade |
-| :--- | :---: | :--- |
-| **CCT Rental Part 1:** <br><br> [CCT RENTAL part 1](https://github.com/eleanorbucke21/webdevCA) <br> <br> CCT Rental Part 1 involves using JavaScript, HTML, and CSS to create web pages with added styling and interactive features. | JavaScript, HTML, CSS | Pass |
+
 
 
 

@@ -5,10 +5,9 @@
 ## Table of Contents
 - [Contact Me](#contact-me)
 - [My Tech Stack](#my-tech-stack)
-- [My Stats](#my-stats)
+- [My Stats](#fire-my-stats-)
 - [CCT Dublin](#cct-dublin)
 - [Code Institute](#code-institute)
-- [Milestone Projects](#milestone-projects)
 - [Hackathons with Code Institute](#hackathons-with-code-institute)
 
 ---
@@ -98,6 +97,15 @@ MY TECH STACK 💻 :
 | My Stats  | Languages  Used |  
 | :--- | :---: | 
 | [![GitHub Streak](https://streak-stats.demolab.com?user=eleanorbucke21&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleanorbucke21&layout=compact) |
+
+---
+
+## CCT Dublin
+### NFQ Level 7 - Diploma in Data Analytics for Business
+
+| Description | Languages & Technologies Used | Project Grade |
+| :--- | :---: | :--- |
+| **Amazon Kindle Reviews Analysis:** <br><br> [Amazon Kindle Analysis](https://github.com/eleanorbucke21/kindle-eda)<br><br><img src="https://github.com/user-attachments/assets/e8eb85b1-f37e-47f8-98db-c197a8b7af5e" alt="Correlation Heatmap" width="400"><br><br>This project explores customer reviews from the Amazon Kindle Store using Python. It covers data cleaning, exploratory data analysis (EDA), and data visualisation. The dataset was cleaned and analysed using Jupyter Notebook (in Google Colab). Key libraries include `pandas`, `matplotlib`, and `seaborn`. Insights revealed a strong bias toward 4–5 star reviews and a skewed distribution of reviewers. | Python, pandas, matplotlib, seaborn, Google Colab | Awaiting Grading |
 
 ---
 

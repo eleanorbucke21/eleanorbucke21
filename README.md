@@ -103,9 +103,13 @@ MY TECH STACK 💻 :
 ## CCT Dublin 
 ### NFQ Level 7 - Diploma in Data Analytics for Business
 
-| Description | Images | Languages & Technologies Used | Project Grade |
-| :--- | :--- | :---: | :--- |
-| **Amazon Kindle Reviews Analysis:** <br><br> :open_file_folder: [Amazon Kindle Analysis](https://github.com/eleanorbucke21/ca1_DATA_VISUALISATION)<br><br>This project explores customer reviews from the Amazon Kindle Store using Python. It covers data cleaning, exploratory data analysis (EDA), and data visualization. The dataset was cleaned and analyzed using Jupyter Notebook (in Google Colab). Key libraries include `pandas`, `matplotlib`, and `seaborn`. Insights revealed a strong bias toward 4–5 star reviews and a skewed distribution of reviewers. | ![Correlation Heatmap](https://github.com/user-attachments/assets/e8eb85b1-f37e-47f8-98db-c197a8b7af5e) | Python, pandas, matplotlib, seaborn, Google Colab | PASS |
+## 🎓 CCT Diploma in Data Analytics for Business
+
+| Coursework Title | Project Description | Languages & Technologies Used | Grade |
+|------------------|---------------------|------------|-------|
+| [📊 Video Game Sales Data Visualisation](https://github.com/eleanorbucke21/ca1_data_visualisation) | Cleaned and visualised sales data by region and genre. Included handling of missing values, global sales distribution, and correlation analysis. | Python, Pandas, Seaborn, Matplotlib | ✅ Pass |
+| [🧪 Machine Learning - Glass Type Classification & Regression](https://github.com/eleanorbucke21/Machine-Learning-CA2/tree/main) | Classification of glass types and regression using Linear, Lasso, and Ridge models. Applied hyperparameter tuning and evaluated overfitting. | Scikit-learn, Pandas, Seaborn, Matplotlib | ✅ Pass |
+| [🤖 Machine Learning – Classification, NLP, PCA & AI Applications](https://github.com/eleanorbucke21/Machine-Learning) | Combined NLP preprocessing on Kindle reviews, PCA for dimensionality reduction, and customer support automation using LLMs. | Keras, Scikit-learn, NLTK, PCA, TensorFlow | ✅ Pass |
 
 ---
 
